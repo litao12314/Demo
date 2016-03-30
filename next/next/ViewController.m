@@ -19,6 +19,9 @@
     
     NSLog(@"gitHup");
     
+    
+    NSLog(@"0000");
+    
 }
 
 - (void)didReceiveMemoryWarning {
